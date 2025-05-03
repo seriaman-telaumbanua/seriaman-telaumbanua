@@ -26,8 +26,7 @@ Passionate developer with an Electrical Engineering background, now focused on *
 
 ### 🔧 Tech Stack
 
-![MySKills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,py,cpp,mysql,arduino,esp)
-![ESP32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MySKills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,py,cpp,mysql,arduino&perline=6)
 
 ---
 
