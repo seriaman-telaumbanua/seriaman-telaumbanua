@@ -2,8 +2,7 @@
 >
 >*Powering the future* 🚀🚀🚀
 
-![Seriaman](img/github-header.png)
-
+![seriaman](img/github-header-image.png)
 Passionate developer with an Electrical Engineering background, now focused on **Frontend Web Development** and **IoT (Internet of Things)**.
 
 ---
